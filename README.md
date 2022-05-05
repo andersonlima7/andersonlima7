@@ -1,6 +1,6 @@
 ## <span style="color:#FF428E">Hi, I'm Anderson 😄 </span>
 
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/anderson-lima-ecomp])[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([https://mail.google.com/mail/?view=cm&source=mailto&to=[andersonlimaecomp]])[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)]([https://leetcode.com/thedevman/]])
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-lima-ecomp)[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=[andersonlimaecomp])[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/thedevman/])
 
 
 [![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonlima7&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
