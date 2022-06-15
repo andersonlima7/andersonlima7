@@ -1,12 +1,6 @@
 <h2 align="center">Hi, I'm Anderson 😁</h2>
 
 ###
-<img align="left" height="200" src="https://i.ibb.co/rQ4SWHP/0b2d1e22-4c67-4988-86fb-a535a2d4edf6-removebg-preview.png"  />
-
-###
-<img align="right" height="200" src="https://i.ibb.co/6gdHfj6/a6d29a8e-3c20-4c86-ab51-e2a166be0953-removebg-preview.png"  />
-
-###
 <div align="center">
   <a href="https://www.linkedin.com/in/anderson-lima-ecomp/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -16,6 +10,12 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
+<img align="left" height="200" src="https://i.ibb.co/tCw9C2L/0b2d1e22-4c67-4988-86fb-a535a2d4edf6-removebg-preview.png"  />
+
+###
+<img align="right" height="200" src="https://i.ibb.co/6gdHfj6/a6d29a8e-3c20-4c86-ab51-e2a166be0953-removebg-preview.png"  />
 
 ###
 <div align="center">
@@ -33,6 +33,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
 </div>
-
 
 ###
